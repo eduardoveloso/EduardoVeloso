@@ -23,6 +23,13 @@ Sou Eduardo, ou apenas Edu!
  
    <img align="center" alt="Edu-Spark" height="50" width="100" src="https://cdn.discordapp.com/attachments/910961417010675712/1028085912564940921/unknown.png" />
 </div>
-
-
+  
 ![Snake animation](https://github.com/eduardoveloso/eduardoveloso/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+  
+  <a href="https://www.linkedin.com/in/eduardoveloso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href="https://medium.com/@eduardoveloso" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  
+</div>
