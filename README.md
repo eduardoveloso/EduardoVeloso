@@ -4,7 +4,8 @@ I'm Eduardo Veloso, or just Edu, and this is my GitHub profile, a place where yo
 
 
 <ul>
-  <li> 💻 Analytics Engineering, former Data Analyst </li>
+  <li> 💻 Analytics Engineer </li>
+  <li> 📊 Data Analyst </li>
   <li> ⚙️ Mechanical Engineer passionate about technology </li>
   <li> 🏢 Currently working for Take Blip </li>
   <li> 🌎 Based in Rio de Janeiro, Brazil </li>
