@@ -1,6 +1,14 @@
-Olá! 
-Sou o Edu!
+Hello there! 👋🏼👍🏼
 
+I'm Eduardo Veloso, or just Edu, and this is my GitHub profile, a place where you'll find some private commits and a lot of unfinished public repos 😅. 
+
+
+<ul>
+  <li> 💻 Analytics Engineering, former Data Analyst </li>
+  <li> ⚙️ Mechanical Engineer passionate about technology </li>
+  <li> 🏢 Currently working for Take Blip </li>
+  <li> 🌎 Based in Rio de Janeiro, Brazil </li>
+</ul>
 
 <div align="center">
   
