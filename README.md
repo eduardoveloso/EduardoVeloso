@@ -19,7 +19,7 @@ I'm Eduardo Veloso, or just Edu, and this is my GitHub profile, a place where yo
 </div>
 
   
-![Snake animation](https://github.com/eduardoveloso/eduardoveloso/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/eduardoveloso/eduardoveloso/blob/output/github-contribution-grid-snake2.svg)
 
 <div>
   
