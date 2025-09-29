@@ -1,14 +1,13 @@
-Hello there! 👋🏼👍🏼
+Profissional dedicado à engenharia de dados, com foco na construção de soluções de dados que geram impacto direto no negócio. Especialista em desenvolver e manter pipelines de dados robustos e modelagem analítica com atuação cross focada em habilitar Customer Success e sustentar funcionalidades de produtos de dados.
 
-I'm Eduardo Veloso, or just Edu, and this is my GitHub profile, a place where you'll find some private commits and a lot of unfinished public repos 😅. 
+Foco:
+Pipelines de Dados | Modelagem Analítica | IA | Data Quality
 
+Tech Stack: Databricks | Spark | Kafka | Airflow | Data Factory
 
-<ul>
-  <li> 💻 Data Engineer </li>
-  <li> ⚙️ Mechanical Engineer passionate about technology </li>
-  <li> 🏢 Currently working for Blip </li>
-  <li> 🌎 Based in Rio de Janeiro, Brazil </li>
-</ul>
+Certificações: 
+Databricks Certified Data Engineer Associate | DA100
+
 
 <div align="center">
   
